@@ -1,14 +1,14 @@
 {
   "name": "shapika_back-end",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "Shapika Back-End Project",
+  "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node src/app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "aminabbasi-dev",
   "license": "ISC",
   "type": "module",
   "dependencies": {
